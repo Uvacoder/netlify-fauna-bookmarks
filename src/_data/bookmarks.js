@@ -26,7 +26,7 @@ function getBookmarks() {
 }
 
 function mapBookmarks(data) {
-    return data.map(bookmark => {
+    return data.bookmarks.map(bookmark => {
         const dateTime = new Date(bookmark.ts / 1000);
 
         return { time: dateTime, ...bookmark.data }
