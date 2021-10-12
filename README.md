@@ -2,6 +2,13 @@
 
 This repository corresponds to an article on creating your very own bookmarking site with the power of FaunaDB, 11ty and Netlify. When the article is published, I'll update with a link.
 
+[www.smashingmagazine.com/2019/10/bookmarking-application-faunadb-netlify-11ty](https://www.smashingmagazine.com/2019/10/bookmarking-application-faunadb-netlify-11ty/)
+
+[https://fauna-bookmarks.netlify.app](https://fauna-bookmarks.netlify.app)
+
+[https://github.com/brob/netlify-fauna-bookmarks](https://github.com/brob/netlify-fauna-bookmarks)
+
+
 ## Setup
 
 If you want this for your own, there are a few things you'll need to do, first, deploy this repo to Netlify with the button below (what this does: Forks the repository and then deploys that forked repository to your Netlify account)
